@@ -1,4 +1,4 @@
-# Hi, I'm Tanzir
+## Hi, I'm Tanzir
 
 UX / Product Designer. I came in through the side door — Economics degree, then data-centric roles, then a slow realization that the data was always about people.
 
