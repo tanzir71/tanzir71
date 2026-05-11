@@ -32,7 +32,7 @@ That's the lens I bring to every tool I work on — what's possible on one side,
 🌐 &nbsp; Portfolio — [tanziro.com](https://tanziro.com)  
 💼 &nbsp; LinkedIn — [linkedin.com/in/tanzir1](https://www.linkedin.com/in/tanzir1)  
 📅 &nbsp; Calendar — [calendly.com/tanzir71](https://calendly.com/tanzir71)  
-✉️ &nbsp; Email — tanzir71@gmail.com
+⚒️ &nbsp; Side Projects — [ganges.quest](https://ganges.quest/)
 
 ---
 
