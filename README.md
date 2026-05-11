@@ -6,7 +6,7 @@ Eight years in, I design software for users who already know their job: financia
 
 ## Currently
 
-**Designer at [Lameh](https://lameh.ai)** — building financial tooling for analysts (remote, Riyadh). Before that, eighteen months in stealth designing LLM tooling for legal teams, which mostly means I can't tell you about it.
+**Designer at Lameh.ai** — building financial tooling for analysts (remote, Riyadh). Before that, eighteen months in stealth designing LLM tooling for legal teams, which mostly means I can't tell you about it.
 
 ## Why I'm on GitHub
 
