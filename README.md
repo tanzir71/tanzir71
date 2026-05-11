@@ -16,23 +16,23 @@ That's the lens I bring to every tool I work on — what's possible on one side,
 
 ## Toolbelt
 
-- **Design** — Figma, Sketch, prototyping, design systems, Lean UX
-- **Code** — Python (Pandas), JavaScript, HTML/CSS, SQL, and an embarrassing amount of VBA in a past life
-- **Research** — user interviews, heatmaps, behavioral analytics, the occasional regression
-- **Domains** — enterprise SaaS, fintech, AI / LLM, EdTech, internal tools
+🎨 &nbsp; **Design** — Figma, Sketch, prototyping, design systems, Lean UX  
+💻 &nbsp; **Code** — Python (Pandas), JavaScript, HTML/CSS, SQL, and an embarrassing amount of VBA in a past life  
+🔍 &nbsp; **Research** — user interviews, heatmaps, behavioral analytics, the occasional regression  
+🧭 &nbsp; **Domains** — enterprise SaaS, fintech, AI / LLM, EdTech, internal tools
 
 ## A few shipped things
 
-- Enterprise field-force tooling at **bKash** — coverage went from 240 to 418 outlets per merchandiser
-- Pushed **Pencil Spaces** daily active users to an all-time high through MLP feature work
-- Designed **Pathao's** fraud detection tool — three weeks, start to handoff
+🧰 &nbsp; Enterprise field-force tooling at **bKash** — coverage went from 240 to 418 outlets per merchandiser  
+📈 &nbsp; Pushed **Pencil Spaces** daily active users to an all-time high through MLP feature work  
+🛡️ &nbsp; Designed **Pathao's** fraud detection tool — three weeks, start to handoff
 
 ## Find me
 
-- Portfolio — [tanziro.com](https://tanziro.com)
-- LinkedIn — [linkedin.com/in/tanzir1](https://www.linkedin.com/in/tanzir1)
-- Calendar — [calendly.com/tanzir71](https://calendly.com/tanzir71)
-- Email — tanzir71@gmail.com
+🌐 &nbsp; Portfolio — [tanziro.com](https://tanziro.com)  
+💼 &nbsp; LinkedIn — [linkedin.com/in/tanzir1](https://www.linkedin.com/in/tanzir1)  
+📅 &nbsp; Calendar — [calendly.com/tanzir71](https://calendly.com/tanzir71)  
+✉️ &nbsp; Email — tanzir71@gmail.com
 
 ---
 
