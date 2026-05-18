@@ -29,10 +29,11 @@ That's the lens I bring to every tool I work on — what's possible on one side,
 
 ## Find me
 
-🌐 &nbsp; Portfolio — <a href="https://tanziro.com" target="_blank" rel="noopener">tanziro.com</a>  
-💼 &nbsp; LinkedIn — <a href="https://www.linkedin.com/in/tanzir1" target="_blank" rel="noopener">linkedin.com/in/tanzir1</a>  
-📅 &nbsp; Calendar — <a href="https://calendly.com/tanzir71" target="_blank" rel="noopener">calendly.com/tanzir71</a>  
-⚒️ &nbsp; Side Projects — <a href="https://ganges.quest/" target="_blank" rel="noopener">ganges.quest</a>
+🌐 **Portfolio** — [tanziro.com](https://tanziro.com)  
+💼 **LinkedIn** — [linkedin.com/in/tanzir1](https://www.linkedin.com/in/tanzir1)  
+📅 **Calendar** — [calendly.com/tanzir71](https://calendly.com/tanzir71)  
+🤗 **Hugging Face** — [huggingface.co/tanziro](https://huggingface.co/tanziro)  
+⚒️ **Side Projects** — [ganges.quest](https://ganges.quest/)
 
 ---
 
