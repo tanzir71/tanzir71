@@ -31,7 +31,6 @@ That's the lens I bring to every tool I work on — what's possible on one side,
 
 🌐 **Portfolio** — [tanziro.com](https://tanziro.com)  
 💼 **LinkedIn** — [linkedin.com/in/tanzir1](https://www.linkedin.com/in/tanzir1)  
-📅 **Calendar** — [calendly.com/tanzir71](https://calendly.com/tanzir71)  
 🤗 **Hugging Face** — [huggingface.co/tanziro](https://huggingface.co/tanziro)  
 ⚒️ **Side Projects** — [ganges.quest](https://ganges.quest/)
 
